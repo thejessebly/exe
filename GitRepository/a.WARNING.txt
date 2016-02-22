@@ -1,6 +1,0 @@
-The following .rar files contain .exe code that could be malicious to your computer
-if used incorrectly.  Be sure to read the README's in each of the .rar files:
-
-"Infinite Folder Creator.rar"		Infinite Folder Creator.exe
-"lol.rar"				lol.exe
-
